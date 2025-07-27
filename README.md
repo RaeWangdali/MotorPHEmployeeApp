@@ -56,7 +56,7 @@ A desktop Java GUI application for managing MotorPH employee records. Built with
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/RaeWangdali/Homework-2-MotorPH-Employee-App-Implementation.git
+&nbsp;  git clone (https://github.com/RaeWangdali/MotorPHEmployeeApp.git)
 
 
 
